@@ -1,0 +1,5 @@
+WOMEN 26-35
+Number SwimDist BikeDist RunDist FName LName
+19 30 6.5 18 Cate Keller
+12 30 7.6 17 Claire Glisson
+36 28.5 7.3 18 Christian Swalling

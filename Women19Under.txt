@@ -1,0 +1,6 @@
+WOMEN 19 UNDER
+Number SwimDist BikeDist RunDist FName LName
+35 29 7.1 18 Sidney Stephens
+27 40 7.0 18 Maggie Michael
+26 31 6.5 19 Anna Linehan
+3 39.5 7.4 20 Lauren Blanchetti

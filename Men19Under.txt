@@ -1,0 +1,4 @@
+MEN 19 UNDER
+RaceNumber SwimDist BikeDist RunDist FName LName
+22 27 7.6 26 William Koester
+34 22 3.9 18 Ian Sohan

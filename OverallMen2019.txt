@@ -1,0 +1,20 @@
+OVERALL MEN
+RaceNumber(Corner) SwimDist BikeDist RunDist FName LName
+18 26.5 7.3 16 RJ Kannapell
+24 42 6.7 25 Scott Lancaster
+10 32 6.8 21 Eric Fletcher
+7 28 7.5 17 Keith Crawford
+17 25.5 5.7 12 Adam Kannapell
+25 26 5.6 16 Victor Leal-Sobral
+4 42 7.9 20 Austin Chen
+6 25 7.4 21 Charles Clark
+14 19 7.9 20 John Han
+21 26 6.9 21 Josh King
+22 27 7.6 26 William Koester
+5 18 6.9 15 Kai Chi
+15 31 9.6 24 Augustus Huang
+31 34 7.4 20 Joshua Seidman
+37 21 8.1 22 Xavier Thompson
+1 19 7.2 14 Abdullah Aly
+34 22 3.9 18 Ian Sohan
+2 38 9.5 17 Travis Ashurst

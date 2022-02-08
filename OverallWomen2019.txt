@@ -1,0 +1,20 @@
+OVERALL WOMEN
+RaceNumber(Corner) SwimDist BikeDist RunDist FName LName
+19 30 6.5 18 Cate Keller
+11 18 7.0 11 Christina Gladding
+16 22 6.0 17 Victoria Johnston
+32 30 6.8 13 Piper Shifflett
+13 22 5.5 13 Meg Graham
+35 29 7.1 18 Sidney Stephens
+28 39 7.9 18 Jillian Pettygrove
+9 31 6.7 11 Susan Finley
+27 40 7.0 18 Maggie Michael
+38 34 7.5 20 Carla Weidner
+12 30 7.6 17 Claire Glisson
+8 44 7.5 18 Hannah Delaney
+23 32 8.7 18 Hannah Kohl
+30 32 7.0 20 Jeri Seidman
+20 41 7.2 16 Christina Kim
+26 31 6.5 19 Anna Linehan
+3 39.5 7.4 20 Lauren Blanchetti
+36 28.5 7.3 18 Christian Swalling

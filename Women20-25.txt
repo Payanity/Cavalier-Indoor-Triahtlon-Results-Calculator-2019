@@ -1,0 +1,10 @@
+WOMEN 20-25
+Number SwimDist BikeDist RunDist FName LName
+16 22 6.0 17 Victoria Johnston
+32 30 6.8 13 Piper Shifflett
+28 39 7.9 18 Jillian Pettygrove
+38 34 7.5 20 Carla Weidner
+8 44 7.5 18 Hannah Delaney
+23 32 8.7 18 Hannah Kohl
+20 41 7.2 16 Christina Kim
+13 22 5.5 13 Meg Graham

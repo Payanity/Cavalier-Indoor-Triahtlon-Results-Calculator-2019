@@ -1,0 +1,8 @@
+MEN 20-25
+RaceNumber SwimDist BikeDist RunDist FName LName
+4 42 7.9 20 Austin Chen
+14 19 7.9 20 John Han
+21 26 6.9 21 Josh King
+15 31 9.6 24 Augustus Huang
+37 21 8.1 22 Xavier Thompson
+1 19 7.2 14 Abdullah Aly
